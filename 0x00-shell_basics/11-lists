@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-ls -la . ../boot
-=======
 #!/bin/bash
-=======
->>>>>>> f9348f2d0d46917624cb2cedcdee6269fb8ff574
-ls -la. ../boot
->>>>>>> cd2fa8efa5bfa56327e840ec29afdab500e1d08b
+ls -la . ../boot
