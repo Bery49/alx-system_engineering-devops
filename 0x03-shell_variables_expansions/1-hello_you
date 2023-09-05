@@ -1,1 +1,2 @@
-echo hello 
+#!/BIN/BASH
+echo hello $USER
