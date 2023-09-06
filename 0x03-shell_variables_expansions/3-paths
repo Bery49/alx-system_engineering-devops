@@ -1,0 +1,2 @@
+#!/bin/bash
+echo /usr/local/bin:/usr/bin:/bin:::/action | tr ':' '\n' | wc -l
